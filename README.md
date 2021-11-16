@@ -16,4 +16,4 @@
 - レンタルサーバーを使ったメール送信テスト
 
 ##参考サイト
-[初心者]PHPで作るお問合せフォーム作成講座【プログラミング】(https://www.youtube.com/watch?v=yn5LKJ6gWr4&list=PL62gPb8y7YK6mvL9qKJlzY7c0z_LEg8H4/)
+[初心者 PHPで作るお問合せフォーム作成講座【プログラミング】](https://www.youtube.com/watch?v=yn5LKJ6gWr4&list=PL62gPb8y7YK6mvL9qKJlzY7c0z_LEg8H4/)
